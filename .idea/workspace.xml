@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bcb0163-ffb5-48da-ba87-281927ace039" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hZELWGXdGYHb46T9RWpLiJTowu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/browsers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in start_session_with_extension.py">
+    <configuration name="Unittests for login.MyTestCase.test_something" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="MetaStream" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login.MyTestCase.test_something&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in join_session_opens_join_page.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="MetaStream" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/join_session_opens_join_page.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="MetaStream" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in start_session_with_extension.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="MetaStream" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/start_session_with_extension.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in start_session_without_extension.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="MetaStream" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/start_session_without_extension.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in start_session_with_extension.py" />
+        <item itemvalue="Python tests.Unittests in start_session_without_extension.py" />
+        <item itemvalue="Python tests.Unittests in join_session_opens_join_page.py" />
+        <item itemvalue="Python tests.Unittests in login.py" />
+        <item itemvalue="Python tests.Unittests for login.MyTestCase.test_something" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bcb0163-ffb5-48da-ba87-281927ace039" name="Default Changelist" comment="" />
+      <created>1600210158743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600210158743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="223" key="GridCell.Tab.0.bottom" timestamp="1600297833646">
+      <screen x="-1007" y="-1417" width="3440" height="1417" />
+    </state>
+    <state width="1419" height="223" key="GridCell.Tab.0.bottom/-1007.-1417.3440.1417/0.23.1440.877@-1007.-1417.3440.1417" timestamp="1600297833646" />
+    <state width="1163" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600215755359" />
+    <state width="1419" height="223" key="GridCell.Tab.0.center" timestamp="1600297833644">
+      <screen x="-1007" y="-1417" width="3440" height="1417" />
+    </state>
+    <state width="1419" height="223" key="GridCell.Tab.0.center/-1007.-1417.3440.1417/0.23.1440.877@-1007.-1417.3440.1417" timestamp="1600297833644" />
+    <state width="1163" height="223" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600215755359" />
+    <state width="1419" height="223" key="GridCell.Tab.0.left" timestamp="1600297833643">
+      <screen x="-1007" y="-1417" width="3440" height="1417" />
+    </state>
+    <state width="1419" height="223" key="GridCell.Tab.0.left/-1007.-1417.3440.1417/0.23.1440.877@-1007.-1417.3440.1417" timestamp="1600297833643" />
+    <state width="1163" height="223" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600215755358" />
+    <state width="1419" height="223" key="GridCell.Tab.0.right" timestamp="1600297833645">
+      <screen x="-1007" y="-1417" width="3440" height="1417" />
+    </state>
+    <state width="1419" height="223" key="GridCell.Tab.0.right/-1007.-1417.3440.1417/0.23.1440.877@-1007.-1417.3440.1417" timestamp="1600297833645" />
+    <state width="1163" height="223" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600215755359" />
+  </component>
+</project>
